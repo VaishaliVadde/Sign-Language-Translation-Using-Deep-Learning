@@ -1,6 +1,6 @@
 <img src="images/banner.png" alt="Project Banner" width="100%" />
 
-# Project Title
+# Deciphering Gestures: Enhancing Sign Language Recognition and Translation with Deep Learning
 Deciphering Gestures: Enhancing Sign Language Recognition and Translation with Deep Learning
 
 ## Overview
